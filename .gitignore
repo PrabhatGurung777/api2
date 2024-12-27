@@ -1,0 +1,37 @@
+# Ignore everything
+*
+
+# Allow specific folders
+!/
+
+# Allow configuration and build files
+!*.sln
+!*.csproj
+!*.fsproj
+!*.vbproj
+!*.props
+!*.targets
+
+# Allow specific folders (if needed)
+!src/
+!test/
+!docs/
+
+# Ignore build outputs and other generated files
+bin/
+obj/
+*.user
+*.lock.json
+*.log
+*.pdb
+*.tmp
+*.nupkg
+*.cache
+*.vscode/
+
+# Ignore system files
+*.DS_Store
+*.Thumbs.db
+
+# Allow .gitignore itself
+!.gitignore

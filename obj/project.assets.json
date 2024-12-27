@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prabh\\Documents\\Development\\api2\\api2.csproj",
+      "projectUniqueName": "C:\\Users\\prabh\\git\\api2\\api2.csproj",
       "projectName": "api2",
-      "projectPath": "C:\\Users\\prabh\\Documents\\Development\\api2\\api2.csproj",
+      "projectPath": "C:\\Users\\prabh\\git\\api2\\api2.csproj",
       "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prabh\\Documents\\Development\\api2\\obj\\",
+      "outputPath": "C:\\Users\\prabh\\git\\api2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
