@@ -19,7 +19,8 @@
 
 # Ignore build outputs and other generated files
 bin/
-obj/
+bin/
+obj/Debug/net9.0/api2.AssemblyInfo.cs
 *.user
 *.lock.json
 *.log
